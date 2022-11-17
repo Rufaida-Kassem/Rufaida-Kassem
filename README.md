@@ -2,16 +2,16 @@
 
 <div align='center'>
   
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=timeGradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Rufaida!&fontAlign=40&fontAlignY=40&color=timeGradient)
 
   </div>
   <p align='justify'> I'm currently a computer engineering senior studying at Cairo University. I love being productive, I'm enamored by science and I'm fond of sharing knowledge and collaborating with my friends. Part of my love to productivity is conveyed in devoting time to gain more experience in different areas of engineering. Although I appreciate about all subjects that come under the umbrella of computer science, I'm notably partial to Python and machine learning, which is perhaps a consequence of my former love to math. I always like to make what I'm working on to be besides flawless, as beautiful and as useful as possible which also explains my love to Javascript and web development.</p>
   
 
 
-[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/EssamWisam/temp/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Rufaida-Kassem/temp/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Rufaida-Kassem/temp/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Rufaida-Kassem/temp/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Rufaida-Kassem/temp/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Rufaida-Kassem/temp/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div align='center'> 
   <h2> 👨🏻‍🔧 Featured Projects  👩🏻‍🔬</h2>
@@ -24,7 +24,7 @@
     <img width="1218" alt="image" src="https://user-images.githubusercontent.com/49572294/178153234-378e7e28-6cc8-44a8-bfa8-bb59cfe37097.png">
   </a>
   <br>
-      <a href="https://github.com/EssamWisam/Breaking-RSA-With-Math">
+      <a href="https://github.com/Rufaida-Kassem/Breaking-RSA-With-Math">
       <img width="1218" alt="image" src="https://user-images.githubusercontent.com/49572294/178153277-c5e31687-a0f1-4f84-ba7e-b10bc6671b35.png">
         </a>
     <br>
@@ -41,7 +41,7 @@
       <img width="1016" alt="image" src="https://user-images.githubusercontent.com/49572294/178154018-e554ad43-2337-4ebf-921e-5d3d39403ade.png">
          </a>
   <br>
-     <a href="https://github.com/EssamWisam/Select-Asterisk">
+     <a href="https://github.com/Rufaida-Kassem/Select-Asterisk">
      <img width="1088" alt="image" src="https://user-images.githubusercontent.com/49572294/178154508-2e2989be-5ee7-4917-b9b8-cde45c88d99b.png">
   <br>
     <a href="https://github.com/CompetitionPortal-Developers/Solvee">
@@ -70,10 +70,10 @@
 
   <div align='center'>
    <h2> 💬 Get in touch 💬 </h2>
-  <a href="mailto: essamwisam@outlook.com"> 
+  <a href="mailto: Rufaida-Kassem@outlook.com"> 
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="50" title="E-mail" />
   </a>
-    <a href="https://www.linkedin.com/in/essamwisam/"> 
+    <a href="https://www.linkedin.com/in/Rufaida-Kassem/"> 
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn" />
         </a>
     <a href="https://www.facebook.com/EssamWsam/"> 
