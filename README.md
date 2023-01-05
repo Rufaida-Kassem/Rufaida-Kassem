@@ -18,8 +18,8 @@
 </div>
 <div align='center'>
     <h2> 👨‍💻 Programming Languages & Platforms 👩‍💻 </h2>
-      <img src="https://edent.github.io/SuperTinyIcons/images/svg/dart.svg" width="50" title="Microsoft Windows" />
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/flutter.svg" width="50" title="Dart" />
+      <img src="https://edent.github.io/SuperTinyIcons/images/svg/dart.svg" width="50" title="Dart" />
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/flutter.svg" width="50" title="Flutter" />
 <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/vhdl_icon_131901.png" width="50" title="HDL (VHDL, Verilog)" />
 <img src="https://img.icons8.com/color/512/c-programming.png" width="50" title="C" />
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="50" title="Python" />
@@ -27,7 +27,7 @@
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="50" title="HTML5" />
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="50" title="C++"/>
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="50" title="Java" />
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="50" title="Flutter" />
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="50" title="Microsoft Windows" />
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="50" title="Linux" />
 </div>
 
