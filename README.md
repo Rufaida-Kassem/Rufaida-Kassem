@@ -35,10 +35,10 @@
   <div align='center'>
    <h2> 💬 Get in touch 💬 </h2>
   <a href="mailto: RufaidahKassem@gmail.com"> 
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="50" title="E-mail" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="50" title="Gmail" />
   </a>
     <a href="mailto: Rufaidah_Kassem@outlook.com"> 
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/outlook.svg" width="50" title="E-mail" />
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/outlook.svg" width="50" title="Outlook" />
   </a>
     <a href="https://www.linkedin.com/in/rufaida-kassem-0576151a9/"> 
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn" />
