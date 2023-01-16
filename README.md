@@ -7,13 +7,6 @@
 [![](https://raw.githubusercontent.com/Rufaida-Kassem/statistics/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Rufaida-Kassem/statistics/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Rufaida-Kassem/statistics/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-  <div align='center'>
-   <h2> 💬 Other platforms 💬 </h2>
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/bitbucket.svg" width="50" title="Bitbucket: Name => Rufaida Kassem" />
-    <a href="https://www.hackerrank.com/rufaidahkassem"> 
-  <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/512/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png" width="50" title="Hackerrank" />
-        </a>
-
 </div>
 <<div align='center'>
     <h2> 👨‍💻 Programming Languages & Platforms 👩‍💻 </h2>
