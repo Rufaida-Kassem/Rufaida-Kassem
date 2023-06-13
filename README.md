@@ -15,7 +15,7 @@
 
 
 </div>
-<<div align='center'>
+<div align='center'>
     <h2> 👨‍💻 Programming Languages & Platforms 👩‍💻 </h2>
       <img src="https://edent.github.io/SuperTinyIcons/images/svg/dart.svg" width="50" title="Dart" />
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/flutter.svg" width="50" title="Flutter" />
