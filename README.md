@@ -22,6 +22,7 @@
 | ------- | ---------- | ----- |
 | [**Video Background Changer**](https://github.com/Rufaida-Kassem/background_changer) · [live demo](https://background-changer.streamlit.app/) · [model](https://huggingface.co/rufaidakassem/deeplabv3_background_segmentation) | Replaces the background of a recorded video using a DeepLabV3 person segmentation model I fine-tuned and exported to TorchScript. Includes the full training pipeline and a deployed Streamlit app. | PyTorch, OpenCV, Streamlit, Hugging Face |
 | [**Gesture Hero**](https://github.com/SarahElzayat/Gesture_Hero) | Classical computer vision hand-gesture classifier (digits 0 to 5): custom preprocessing, HOG features and SVM. Ranked 2nd among 20 teams. Team project. | Python, OpenCV, scikit-learn |
+| [**Bank Loan Default Prediction**](https://github.com/Rufaida-Kassem/Bank-Loan-Default-DS-Project) | End-to-end default prediction on the Home Credit dataset (307K applications, 8% default rate): data merging and validation, feature engineering and selection, a baseline plus four models compared (logistic regression, random forest, XGBoost, LightGBM), MLflow tracking, a Streamlit dashboard and CI with tests. Team project. | Python, scikit-learn, XGBoost, LightGBM, MLflow, Streamlit |
 
 ---
 
@@ -48,10 +49,10 @@
   <a href="https://www.hackerrank.com/rufaidahkassem">HackerRank</a> ·
   <a href="https://codeforces.com/profile/Rufaida_Kassem">Codeforces</a>
 </p>
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rufaida-Kassem&label=Profile%20views&color=0e75b6&style=flat" alt="Rufaida-Kassem" /> </p>
 
-<div align='center'>
+---
+
+<!-- <div align='center'>
   
 
   </div>  
@@ -59,5 +60,5 @@
 [![](https://raw.githubusercontent.com/Rufaida-Kassem/statistics/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Rufaida-Kassem/statistics/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Rufaida-Kassem/statistics/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Rufaida-Kassem/statistics/master/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Rufaida-Kassem/statistics/master/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+ -->
 
